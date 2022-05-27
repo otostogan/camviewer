@@ -1,0 +1,22 @@
+{
+  "name": "camviewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "keywords": [
+    "camviewer",
+    "mern",
+    "react",
+    "nodeJs"
+  ],
+  "author": "sobeyy <otostogan2020@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
+}
