@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "7uBGCYkOXVPy2Aus:camviewer",
+    "mongoUri": "mongodb+srv://camviewer:7uBGCYkOXVPy2Aus@cluster0.crvwy2i.mongodb.net/app?retryWrites=true&w=majority"
+}
